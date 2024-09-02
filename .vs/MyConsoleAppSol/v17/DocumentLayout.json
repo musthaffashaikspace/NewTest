@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MusthaffaShaik\\Downloads\\MyConsoleAppSol\\MyConsoleAppSol\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB268587-64CA-404D-A3C4-EEBE4FD0A67C}|MyConsoleApp.Tests\\MyConsoleApp.Tests.csproj|c:\\users\\musthaffashaik\\downloads\\myconsoleappsol\\myconsoleappsol\\myconsoleapp.tests\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB268587-64CA-404D-A3C4-EEBE4FD0A67C}|MyConsoleApp.Tests\\MyConsoleApp.Tests.csproj|solutionrelative:myconsoleapp.tests\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0A5CB6-25BA-4822-B6DC-FD7D9493C9F7}|MyConsoleApp\\MyConsoleApp.csproj|c:\\users\\musthaffashaik\\downloads\\myconsoleappsol\\myconsoleappsol\\myconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC0A5CB6-25BA-4822-B6DC-FD7D9493C9F7}|MyConsoleApp\\MyConsoleApp.csproj|solutionrelative:myconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MusthaffaShaik\\Downloads\\MyConsoleAppSol\\MyConsoleAppSol\\MyConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "MyConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\MusthaffaShaik\\Downloads\\MyConsoleAppSol\\MyConsoleAppSol\\MyConsoleApp\\Program.cs",
+              "RelativeToolTip": "MyConsoleApp\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T05:59:26.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculatorTests.cs",
+              "DocumentMoniker": "C:\\Users\\MusthaffaShaik\\Downloads\\MyConsoleAppSol\\MyConsoleAppSol\\MyConsoleApp.Tests\\CalculatorTests.cs",
+              "RelativeDocumentMoniker": "MyConsoleApp.Tests\\CalculatorTests.cs",
+              "ToolTip": "C:\\Users\\MusthaffaShaik\\Downloads\\MyConsoleAppSol\\MyConsoleAppSol\\MyConsoleApp.Tests\\CalculatorTests.cs",
+              "RelativeToolTip": "MyConsoleApp.Tests\\CalculatorTests.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAkwDYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T05:59:20.242Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
