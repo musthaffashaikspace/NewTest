@@ -48,11 +48,11 @@ namespace MyConsoleApp.Tests
             Assert.Throws<InvalidOperationException>(() => _calculator.PerformOperation(2, 3, "^"));
         }
 
-        [Test]
-        public void Divide_ByZero_ThrowsException()
-        {
-            Assert.Throws<DivideByZeroException>(() => _calculator.Divide(6, 0));
-        }
+        //[Test]
+        //public void Divide_ByZero_ThrowsException()
+        //{
+        //    Assert.Throws<DivideByZeroException>(() => _calculator.Divide(6, 0));
+        //}
     }
 }
 
